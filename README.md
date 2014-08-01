@@ -27,6 +27,7 @@ Insecutity features
 ---
 
 Ways people can get by this password module:
+
 1. Brute force the password (compute time < 1min)
 2. Manually delete the blocking <div> with developer tools
 3. Sharing the password (there's only one)

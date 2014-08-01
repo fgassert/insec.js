@@ -26,3 +26,6 @@ with your hashed password as the first argument and how long you wish to cookie 
 
  - Password `password`
  - Expires in 1 day
+
+
+[See an example](http://fgassert.github.io/insec.js/example.html)
